@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "projeto_medidas_dax"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "203f3cdd-2337-45a1-9cbb-029d30acd799"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "version": "4.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../projeto_medidas_dax.SemanticModel"
+    },
+    "byConnection": null
+  }
+}

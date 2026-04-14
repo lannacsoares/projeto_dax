@@ -1,0 +1,99 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 155.02664619627822,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 0,
+            "y": 173.32863005546602
+          },
+          "nodeIndex": "dim_clientes",
+          "nodeLineageTag": "77c1b391-c801-4c05-8c35-296450d9318a",
+          "size": {
+            "height": 188.788306358594,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 271.66713699445341,
+            "y": 0
+          },
+          "nodeIndex": "dim_reviews",
+          "nodeLineageTag": "757c6932-8f40-4096-9aca-9e2628dce137",
+          "size": {
+            "height": 228.48467745656239,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 555.66713699445336,
+            "y": 146.87600866913903
+          },
+          "nodeIndex": "dim_vendedores",
+          "nodeLineageTag": "7109fbe7-37a6-4003-8593-22f5d93a9d58",
+          "size": {
+            "height": 155.3635080924218,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 252.17439018477876,
+            "y": 393.53044681335075
+          },
+          "nodeIndex": "fato_pedidos",
+          "nodeLineageTag": "3e802afd-850f-4507-aad5-82bbfe12e434",
+          "size": {
+            "height": 446.87318670241859,
+            "width": 257.54455664695251
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 570.930631919294,
+            "y": 363.01653525327333
+          },
+          "nodeIndex": "dim_produtos",
+          "nodeLineageTag": "ad6d9496-4b9a-40a4-b828-d01aff60bafc",
+          "size": {
+            "height": 311.69637109796838,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 854.930631919294,
+            "y": 320.20181675788467
+          },
+          "nodeIndex": "Medidas",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "Todas as tabelas",
+      "zoomValue": 70.955543900968948,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "Todas as tabelas",
+  "defaultDiagram": "Todas as tabelas"
+}
